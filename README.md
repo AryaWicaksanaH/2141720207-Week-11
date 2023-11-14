@@ -310,8 +310,8 @@ Terakhir, tambahkan method dispose() berguna ketika widget sudah tidak digunakan
 
 Lakukan Hot restart (bukan hot reload) pada aplikasi Flutter Anda. Anda akan melihat tampilan akhir seperti gambar berikut. Jika masih terdapat error, silakan diperbaiki hingga bisa running.
 
-![screenshot PC](../Week-11/docs/Praktikum%201/screenshot_pc.png)
-![screenshot hape](../Week-11/docs/Praktikum%201/gif_hape.gif)
+![screenshot PC](docs/Praktikum%201/screenshot_pc.png)
+![screenshot hape](docs/Praktikum%201/gif_hape.gif)
 
 
 # 4. Tugas Praktikum 1: Dasar State dengan Model-View
